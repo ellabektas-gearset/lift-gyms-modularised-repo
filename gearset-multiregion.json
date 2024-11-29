@@ -6,6 +6,10 @@
     "uk": [
       "core",
       "uk"
+    ],
+    "usa": [
+      "core",
+      "usa"
     ]
   }
 }
